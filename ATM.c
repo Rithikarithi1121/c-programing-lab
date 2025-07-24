@@ -7,5 +7,5 @@ while(1){
     printf("2.deposit money\n");
     printf("3.withdraw money\n");
     printf("4.exit\n");
-    printf("entr a choice:");}
+    printf("enter a choice:");}
 }
